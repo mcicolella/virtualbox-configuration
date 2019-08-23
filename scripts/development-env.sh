@@ -9,3 +9,4 @@ sudo apt install nodejs
 sudo apt install npm
 
 sudo apt install openjdk-8-jdk
+sudo update-alternatives --config java
